@@ -1,5 +1,5 @@
 <?php
 
-  echo "something true !";
+  echo "something else !";
  
  ?>

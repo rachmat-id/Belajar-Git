@@ -1,5 +1,5 @@
 <?php
 
-	echo "My name is Rachmat !";
+	echo "Hello world !";
 
 ?>

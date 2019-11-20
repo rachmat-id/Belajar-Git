@@ -1,5 +1,5 @@
 <?php
 
-  echo "something else !";
+  echo "something else, WOW !";
  
  ?>
